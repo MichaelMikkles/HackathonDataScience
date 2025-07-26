@@ -49,15 +49,6 @@ El análisis se estructura en las siguientes secciones:
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 📁 Estructura del Repositorio
-
-
-├── data/ # Dataset original (si es público o anonimizado)
-├── notebooks/ # Cuadernos Jupyter con los análisis
-├── src/ # Funciones auxiliares (opcional)
-├── README.md # Este archivo
-├── informe_final.md/pdf # Informe completo en formato Markdown o PDF
-
 
 ## 📌 Notas
 
@@ -65,9 +56,8 @@ El análisis se estructura en las siguientes secciones:
 - No se identificaron patrones anormales ni relaciones claras con otras variables.
 - Se sugiere explorar modelos de series de tiempo o detección de anomalías para futuros análisis.
 
-## 📬 Contacto
+## Creditos
 
-Para dudas o sugerencias, puedes contactarme en:  
-**Michael Moreno Bustos**  
-✉️ michael.moreno.st@gmail.com  
-🌐 [GitHub](https://github.com/michaelmikkles)
+- Jhon Steven Velasquez
+- Luis Miguel Lopez
+- Michael Moreno
